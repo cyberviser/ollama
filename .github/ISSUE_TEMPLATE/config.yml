@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Help
-    url: https://discord.com/invite/ollama
-    about: Please join our Discord server for help using Ollama
-  - name: Troubleshooting
-    url: https://github.com/ollama/ollama/blob/main/docs/faq.md#faq
-    about: See the FAQ for common issues and solutions
+  - name: 0AI Support
+    url: https://github.com/cyberviser/ollama/blob/main/SUPPORT.md
+    about: Portfolio support and owner contact for this repository.
+  - name: Private Security Reporting
+    url: https://github.com/cyberviser/ollama/blob/main/SECURITY.md
+    about: Report vulnerabilities and safety issues privately.
