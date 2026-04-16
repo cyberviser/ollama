@@ -1,25 +1,19 @@
-# Security
+# Security Policy
 
-The Ollama maintainer team takes security seriously and will actively work to resolve security issues.
+This repository is a fork operated by Johnny Watters (`0ai-Cyberviser`) as part of the `0AI` company portfolio. Upstream licensing remains in force.
 
-## Reporting a vulnerability
+If you discover a security vulnerability or a safety issue, do not open a public issue first.
 
-If you discover a security vulnerability, please do not open a public issue. Instead, please report it by emailing hello@ollama.com. We ask that you give us sufficient time to investigate and address the vulnerability before disclosing it publicly.
+Report privately to:
 
-Please include the following details in your report:
-- A description of the vulnerability
-- Steps to reproduce the issue
-- Your assessment of the potential impact
-- Any possible mitigations
+- 0ai@cyberviserai.com
+- cyberviser@proton.me
 
-## Security best practices
+Please include:
 
-While the maintainer team does its best to secure Ollama, users are encouraged to implement their own security best practices, such as:
+- affected repository
+- impact summary
+- reproduction details
+- any suggested remediation
 
-- Regularly updating to the latest version of Ollama
-- Securing access to hosted instances of Ollama
-- Monitoring systems for unusual activity
-
-## Contact
-
-For any other questions or concerns related to security, please contact us at hello@ollama.com
+If the issue belongs to upstream code or project governance, report upstream as well when appropriate.
